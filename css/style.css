@@ -19,6 +19,7 @@ body{background-color:hsl(30, 38%, 92%) ;
     justify-content: center;
     align-items: center;
     height: 750px;
+    min-height: 100vh;
     
     padding-top: 20px;
     padding-bottom: 20px;
@@ -75,8 +76,15 @@ margin: 0px auto ;
 margin-bottom: 0px;
 height: 50px;
 width: 270px;
-border-radius: 8px;}
+border: none;
+border-radius: 8px;
+}
 
+
+.btn:hover{background-color: aquamarine;
+    box-shadow: 0px 0px 2px 2px black;}
+
+.btn:active{background-color: darkgreen}
 
 #text-area .btn{color:#fff;
 background-color: hsl(158, 36%, 37%);}
