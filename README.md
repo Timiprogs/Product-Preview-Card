@@ -22,7 +22,15 @@ Users should be able to:
 
 ### Screenshot
 
+##### Desktop view Screenshot
+
 ![desktop view screenshot](desktop-view-screenshot.png)
+
+
+
+##### Mobile view Screenshot
+
+![mobile view screenshot](mobile-view-screenshot.png)
 
 
 
