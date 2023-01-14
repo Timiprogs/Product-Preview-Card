@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop view screenshot](desktop view screenshot.png)
+![desktop view screenshot](desktop-view-screenshot.png)
 
 
 
