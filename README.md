@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./timiprogs.github.io_Product-Preview-Card_(Nest Hub Max).png)
+![](./desktop view screenshot.png)
 
 
 
