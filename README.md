@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop view screenshot.png)
+![screenshot]((https://github.com/Timiprogs/Product-Preview-Card/blob/main/desktop%20view%20screenshot.png)
 
 
 
