@@ -9,8 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
